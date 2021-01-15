@@ -1,0 +1,3 @@
+[submodule "DeepLearningShogi"]
+	path = DeepLearningShogi
+	url = https://github.com/TadaoYamaoka/DeepLearningShogi.git
